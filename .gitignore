@@ -1,0 +1,11 @@
+/dev
+*.ppt
+*.pptx
+*.docx
+*.doc
+
+*.idea
+*.vscode
+
+/env
+/envs
